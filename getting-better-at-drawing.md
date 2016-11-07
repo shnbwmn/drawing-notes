@@ -3,11 +3,11 @@
 
 Getting better depends on many factors:
 
-* how observant you are
-* what instructional material you ingest
-* if you’re objective enough to know you’re not “there” yet (ever)
-* if you’re receiving objective feedback from another artist
-* if you’re drawing from life, etc.
+* how *observant* you are
+* what *instructional material* you ingest
+* if you’re objective enough to know you’re *not “there” yet* (ever)
+* if you’re receiving *objective feedback* from another artist
+* if you’re *drawing from life*, etc.
 
 Let’s be clear on one thing: the point is **not** to create a photorealistic drawing, as so many people try
 to do by copying photos. Leave photography to cameras - they do that pretty well.
