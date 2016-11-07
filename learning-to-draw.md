@@ -23,3 +23,5 @@ First step: start drawing. Keep your early sketches to monitor your progress.
 * Set-up drawing experiments. Place a few basic shapes against a white background, and shine different light sources on them with varying angles, positions and intensities. Or draw the same subject in multiple styles.
 * Try to get hold of a full-body anatomical skeleton and small wooden mannequins of the figure and hands. Statue casts are particularly interesting, because they were [diligently copied](https://vk.com/doc174101046_174324478?hash=63520daf6ba1f0959b&dl=76664a0100b40bd8e5) at the art academies of previous centuries. It is still good practice, as well as copying master drawings.
 Draftsmanship is valuable for any type of art you want to do, be it painting, illustration, anime, comics, designs, commissions, etc. Repetitious, verbatim drawing from photos does little to teach you originality, spontaneity or prowess - necessary to express, beautify and exaggerate.
+
+Originally posted to Quora.
