@@ -1,2 +1,7 @@
-# drawing-thoughts
-My thoughts on all things drawing.
+
+# Drawing Thoughts
+
+> My thoughts on all things drawing.
+
+
+
