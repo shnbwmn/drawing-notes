@@ -58,4 +58,6 @@ carefully “shaded” photorealistic eye drawing any day.
 
 ![Van Gogh](https://qph.ec.quoracdn.net/main-qimg-4e2a1f78693fa948c19782435d1b20ae-c?convert_to_webp=true)
 
+*< Previous: [Learning how to draw](https://github.com/shnbwmn/drawing-thoughts/blob/master/learning-to-draw.md)*
+
 *Originally posted to [Quora](https://www.quora.com/Will-I-get-better-at-drawing-if-I-consistently-keep-drawing-what-is-in-front-of-me/answer/Shane-Bowman).*
