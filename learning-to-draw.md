@@ -25,4 +25,6 @@ First step: *start drawing*. Keep your early sketches to monitor your progress.
 
 Draftsmanship is valuable for any type of art you want to do, be it painting, illustration, anime, comics, designs, commissions, etc. Repetitious, verbatim drawing from photos does little to teach you originality, spontaneity or prowess - necessary to express, beautify and exaggerate.
 
+*> Next: [Getting better at drawing](https://github.com/shnbwmn/drawing-thoughts/blob/master/getting-better-at-drawing.md)*
+
 *Originally posted to [Quora](https://www.quora.com/What-is-the-most-effective-way-to-learn-how-to-draw/answer/Shane-Bowman).*
