@@ -60,4 +60,4 @@ carefully “shaded” photorealistic eye drawing any day.
 
 *Originally posted to [Quora](https://www.quora.com/Will-I-get-better-at-drawing-if-I-consistently-keep-drawing-what-is-in-front-of-me/answer/Shane-Bowman).*
 
-*< Previous: [Learning how to draw](https://github.com/shnbwmn/drawing-thoughts/blob/master/learning-to-draw.md) | [Index](https://github.com/shnbwmn/drawing-thoughts/blob/master/README.md)*
+*< Previous: [Learning how to draw](learning-to-draw.md) | [Index](README.md)*
