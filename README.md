@@ -5,11 +5,11 @@
 
 ![Head of an Apostle - Raphael Sanzio](img/head-of-an-apostle.jpg)
 
-## Own thoughts
+## Own Thoughts
 
-1. *[Learning how to draw](1-Learning.md)* - tips and general advice
+1. [**_Learning how to draw_**](1-Learning.md) / tips and general advice
 
-2. *[Getting better at drawing](2-Getting-Better.md)* - advice for improving and some concerns
+2. [**_Getting better at drawing_**](2-Getting-Better.md) / advice for improving and some concerns
 
 ## Resources
 (placeholder)
