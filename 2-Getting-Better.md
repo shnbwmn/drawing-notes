@@ -1,5 +1,5 @@
 
-# Getting better at drawing
+# Getting Better At Drawing
 
 Getting better depends on many factors:
 
