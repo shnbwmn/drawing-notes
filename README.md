@@ -1,13 +1,18 @@
 
-# Drawing Thoughts
+# Drawing Notes
 
 > Notes on drawing.
 
 ![Head of an Apostle - Raphael Sanzio](head-of-an-apostle.jpg)
 
+## Own thoughts
+
 1. *[Learning how to draw](learning-to-draw.md)* - tips and general advice
 
 2. *[Getting better at drawing](getting-better-at-drawing.md)* - advice for improving and some concerns
+
+## Videos
+(placeholder)
 
 ## License
 
