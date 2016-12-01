@@ -1,5 +1,5 @@
 
-# Learning how to draw
+# Learning How To Draw
 
 First step: *start drawing*. Keep your early sketches to monitor your progress.
 
