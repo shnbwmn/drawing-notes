@@ -11,8 +11,13 @@
 
 2. *[Getting better at drawing](getting-better-at-drawing.md)* - advice for improving and some concerns
 
+## Resources
+(placeholder)
+(quora pdf??)
+
 ## Videos
 (placeholder)
+(ways of seeing?)
 
 ## License
 
