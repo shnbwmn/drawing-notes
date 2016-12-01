@@ -7,9 +7,9 @@
 
 ## Own thoughts
 
-1. *[Learning how to draw](docs/learning-to-draw.md)* - tips and general advice
+1. *[Learning how to draw](1-Learning.md)* - tips and general advice
 
-2. *[Getting better at drawing](docs/getting-better-at-drawing.md)* - advice for improving and some concerns
+2. *[Getting better at drawing](2-Getting-Better.md)* - advice for improving and some concerns
 
 ## Resources
 (placeholder)
