@@ -27,4 +27,4 @@ Draftsmanship is valuable for any type of art you want to do, be it painting, il
 
 *Originally posted to [Quora](https://www.quora.com/What-is-the-most-effective-way-to-learn-how-to-draw/answer/Shane-Bowman).*
 
-*[Index](README.md) | Next: [Getting better at drawing](getting-better-at-drawing.md) >*
+*[Index](README.md) | Next: [Getting better at drawing](docs/getting-better-at-drawing.md) >*
