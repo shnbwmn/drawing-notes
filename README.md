@@ -10,7 +10,7 @@
 2. [**_Getting Better At Drawing_**](2-Getting-Better.md) / advice for improving and some concerns
 
 ## Resources
-* [**ArtGraphica**](http://www.artgraphica.net/) / free art | drawing lessons, books, etc
+* [**ArtGraphica**](http://www.artgraphica.net/) / free art lessons, books, etc
 * [**Charles Bargue Drawing Course**](https://vk.com/doc174101046_174324478?hash=63520daf6ba1f0959b&dl=76664a0100b40bd8e5)
 * [**Perspective Drawing Handbook**](https://issuu.com/beshlaa/docs/perspective_drawing_handbook) / [*issuu*](https://issuu.com/)
 * [**Van Gogh Letters**](http://www.webexhibits.org/vangogh/)
