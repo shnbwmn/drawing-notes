@@ -3,7 +3,7 @@
 
 > Links and notes related to drawing.
 
-[![Head of an Apostle - Raphael Sanzio](img/head-of-an-apostle.jpg)](http://www.sothebys.com/en/auctions/ecatalogue/2012/old-master-british-paintings-evening-l12036/lot.52.html)
+[![Head of an Apostle - Raphael Sanzio](img/head-of-an-apostle.jpg)](http://www.dailymail.co.uk/news/article-2243963/Black-chalk-drawing-Raphael-sells-29-7m-sparking-17-minute-bidding-war-auction.html)
 
 ## Own Thoughts
 1. [**_Learning How To Draw_**](1-Learning.md) / tips and general advice
