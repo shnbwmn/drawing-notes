@@ -9,6 +9,9 @@
 1. [**_Learning How To Draw_**](1-Learning.md) / tips and general advice
 2. [**_Getting Better At Drawing_**](2-Getting-Better.md) / advice for improving and some concerns
 
+## Imagery
+* [**Raphael's Head Of An Apostle**](http://www.sothebys.com/en/auctions/ecatalogue/2012/old-master-british-paintings-evening-l12036/lot.52.html) | [**Rip**](http://www.sothebys.com/content/dam/stb/lots/L12/L12036/170L12036_6MBMG_Revised.jpg) / [*img*](img/head-large.jpg)
+
 ## Links
 * [**ArtGraphica**](http://www.artgraphica.net/) / free art lessons, books, etc
 * [**Charles Bargue Drawing Course**](https://vk.com/doc174101046_174324478?hash=63520daf6ba1f0959b&dl=76664a0100b40bd8e5) / [*plates*](http://www.conceptart.org/forums/showthread.php/166289-Charles-Bargue-Drawings-Prints-to-download)
