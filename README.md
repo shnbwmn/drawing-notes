@@ -10,7 +10,7 @@
 2. [**_Getting Better At Drawing_**](2-Getting-Better.md) / advice for improving and some concerns
 
 ## Imagery
-* [**Raphael's Head Of An Apostle**](http://www.sothebys.com/en/auctions/ecatalogue/2012/old-master-british-paintings-evening-l12036/lot.52.html) | [**Rip**](http://www.sothebys.com/content/dam/stb/lots/L12/L12036/170L12036_6MBMG_Revised.jpg) / [*img*](img/head-large.jpg)
+* [**Raphael's Head Of An Apostle**](http://www.sothebys.com/en/auctions/ecatalogue/2012/old-master-british-paintings-evening-l12036/lot.52.html) | [**Download**](http://www.sothebys.com/content/dam/stb/lots/L12/L12036/170L12036_6MBMG_Revised.jpg)
 
 ## Links
 * [**ArtGraphica**](http://www.artgraphica.net/) / free art lessons, books, etc
