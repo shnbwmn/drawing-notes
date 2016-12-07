@@ -3,7 +3,7 @@
 
 > Notes on drawing.
 
-![Head of an Apostle - Raphael Sanzio](img/head-of-an-apostle.jpg)
+[![Head of an Apostle - Raphael Sanzio](img/head-of-an-apostle.jpg)](http://www.sothebys.com/en/auctions/ecatalogue/2012/old-master-british-paintings-evening-l12036/lot.52.html)
 
 ## Own Thoughts
 1. [**_Learning How To Draw_**](1-Learning.md) / tips and general advice
